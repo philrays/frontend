@@ -1,0 +1,27 @@
+* Host localhost:5050 was resolved.
+* IPv6: ::1
+* IPv4: 127.0.0.1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying [::1]:5050...
+* Connected to localhost (::1) port 5050
+> GET /api/ga-traffic HTTP/1.1
+> Host: localhost:5050
+> User-Agent: curl/8.7.1
+> Accept: */*
+> 
+* Request completely sent off
+< HTTP/1.1 500 Internal Server Error
+< X-Powered-By: Express
+< Access-Control-Allow-Origin: *
+< Content-Type: application/json; charset=utf-8
+< Content-Length: 125
+< ETag: W/"7d-pMxDs9JXcKeh7Fjv7RU6tL2hVrk"
+< Date: Sun, 22 Jun 2025 05:03:54 GMT
+< Connection: keep-alive
+< Keep-Alive: timeout=5
+< 
+{ [125 bytes data]
+100   125  100   125    0     0    271      0 --:--:-- --:--:-- --:--:--   271100   125  100   125    0     0    271      0 --:--:-- --:--:-- --:--:--   271
+* Connection #0 to host localhost left intact
+{"success":false,"data":null,"message":"rows is not defined","error":"Failed to fetch Google Analytics data (server error)."}

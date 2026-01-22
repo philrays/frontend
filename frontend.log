@@ -1,0 +1,1302 @@
+
+> frontend@0.1.0 start
+> react-scripts start
+
+(node:11077) [DEP0176] DeprecationWarning: fs.F_OK is deprecated, use fs.constants.F_OK instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:11077) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:11077) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.148:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 361:43:  'chartOptions' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used  no-unused-vars
+
+ERROR in [eslint] 
+src/App.js
+  Line 361:43:  'chartOptions' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 553:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 554:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 555:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 556:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 566:21:  'setShowAdmin' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 553:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 554:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 555:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 556:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 566:21:  'setShowAdmin' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 601:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 602:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 603:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 610:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 611:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 624:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 601:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 602:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 603:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 610:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 611:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 624:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 601:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 602:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 603:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 610:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 611:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 624:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 601:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 602:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 603:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 610:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 611:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 624:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 604:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 605:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 606:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 613:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 614:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 627:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 604:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 605:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 606:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 613:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 614:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 627:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 604:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 605:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 606:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 613:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 614:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 627:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 604:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 605:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 606:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 613:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 614:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 627:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Identifier 'API_BASE' has already been declared. (514:6) (514:6)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/dougsimac/FIDGA/frontend/src/App.js: Identifier 'API_BASE' has already been declared. (514:6)
+
+  512 | // === Admin Dashboard Component ===
+  513 | // Utility to get API base URL
+> 514 | const API_BASE = process.env.REACT_APP_API_URL || '';
+      |       ^
+  515 |
+  516 | function FeedbackTable({ onBack }) {
+  517 |   const [feedbacks, setFeedbacks] = useState(null);
+    at constructor (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:363:19)
+    at FlowParserMixin.raise (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:6609:19)
+    at FlowScopeHandler.checkRedeclarationInScope (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1626:19)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1592:12)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1693:11)
+    at FlowParserMixin.declareNameFromIdentifier (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7538:16)
+    at FlowParserMixin.checkIdentifier (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7534:12)
+    at FlowParserMixin.checkLVal (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7475:12)
+    at FlowParserMixin.parseVarId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13327:10)
+    at FlowParserMixin.parseVarId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3486:11)
+    at FlowParserMixin.parseVar (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13302:12)
+    at FlowParserMixin.parseVarStatement (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13149:10)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12770:23)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseModuleItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12662:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13235:36)
+    at FlowParserMixin.parseBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13228:10)
+    at FlowParserMixin.parseProgram (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12541:10)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12531:25)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3697:28)
+    at FlowParserMixin.parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14410:10)
+    at parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14444:38)
+    at parser (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/App.js
+  Line 514:6:  Parsing error: Identifier 'API_BASE' has already been declared. (514:6)
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Identifier 'API_BASE' has already been declared. (514:6) (514:6)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/dougsimac/FIDGA/frontend/src/App.js: Identifier 'API_BASE' has already been declared. (514:6)
+
+  512 | // === Admin Dashboard Component ===
+  513 | // Utility to get API base URL
+> 514 | const API_BASE = process.env.REACT_APP_API_URL || '';
+      |       ^
+  515 |
+  516 | function FeedbackTable({ onBack }) {
+  517 |   const [feedbacks, setFeedbacks] = useState(null);
+    at constructor (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:363:19)
+    at FlowParserMixin.raise (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:6609:19)
+    at FlowScopeHandler.checkRedeclarationInScope (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1626:19)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1592:12)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1693:11)
+    at FlowParserMixin.declareNameFromIdentifier (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7538:16)
+    at FlowParserMixin.checkIdentifier (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7534:12)
+    at FlowParserMixin.checkLVal (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7475:12)
+    at FlowParserMixin.parseVarId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13327:10)
+    at FlowParserMixin.parseVarId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3486:11)
+    at FlowParserMixin.parseVar (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13302:12)
+    at FlowParserMixin.parseVarStatement (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13149:10)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12770:23)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseModuleItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12662:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13235:36)
+    at FlowParserMixin.parseBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13228:10)
+    at FlowParserMixin.parseProgram (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12541:10)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12531:25)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3697:28)
+    at FlowParserMixin.parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14410:10)
+    at parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14444:38)
+    at parser (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/App.js
+  Line 514:6:  Parsing error: Identifier 'API_BASE' has already been declared. (514:6)
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Identifier 'API_BASE' has already been declared. (514:6) (514:6)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/dougsimac/FIDGA/frontend/src/App.js: Identifier 'API_BASE' has already been declared. (514:6)
+
+  512 | // === Admin Dashboard Component ===
+  513 | // Utility to get API base URL
+> 514 | const API_BASE = process.env.REACT_APP_API_URL || '';
+      |       ^
+  515 |
+  516 | function FeedbackTable({ onBack }) {
+  517 |   const [feedbacks, setFeedbacks] = useState(null);
+    at constructor (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:363:19)
+    at FlowParserMixin.raise (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:6609:19)
+    at FlowScopeHandler.checkRedeclarationInScope (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1626:19)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1592:12)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1693:11)
+    at FlowParserMixin.declareNameFromIdentifier (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7538:16)
+    at FlowParserMixin.checkIdentifier (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7534:12)
+    at FlowParserMixin.checkLVal (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:7475:12)
+    at FlowParserMixin.parseVarId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13327:10)
+    at FlowParserMixin.parseVarId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3486:11)
+    at FlowParserMixin.parseVar (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13302:12)
+    at FlowParserMixin.parseVarStatement (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13149:10)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12770:23)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseModuleItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12662:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13235:36)
+    at FlowParserMixin.parseBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13228:10)
+    at FlowParserMixin.parseProgram (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12541:10)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12531:25)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3697:28)
+    at FlowParserMixin.parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14410:10)
+    at parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14444:38)
+    at parser (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/App.js
+  Line 514:6:  Parsing error: Identifier 'API_BASE' has already been declared. (514:6)
+
+webpack compiled with 2 errors
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 608:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 621:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+  Line 608:10:  'showFeedbackSuccess' is assigned a value but never used                                                                                                                                                                                                                                                                                                           no-unused-vars
+  Line 621:9:   'renderModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 513:10:  'FeedbackTable' is defined but never used                                                                                                                                                                                                                                                                                                                          no-unused-vars
+  Line 560:10:  'AdminDashboard' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 607:24:  'setActiveModule' is assigned a value but never used                                                                                                                                                                                                                                                                                                               no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 598:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 599:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 600:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 662:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 663:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 664:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 662:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 663:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 664:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 772:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 773:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 774:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 772:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 773:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 774:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 772:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 773:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 774:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 772:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 773:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 774:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 772:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 773:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 774:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 225:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 772:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 773:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 774:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 657:17:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:17:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:17:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+ERROR in [eslint] 
+src/App.js
+  Line 657:17:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:17:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:17:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 657:17:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:17:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:17:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+ERROR in [eslint] 
+src/App.js
+  Line 657:17:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:17:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:17:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 657:67:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:70:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:66:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+ERROR in [eslint] 
+src/App.js
+  Line 657:67:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:70:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:66:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 657:67:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:70:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:66:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+ERROR in [eslint] 
+src/App.js
+  Line 657:67:  'CampaignManagementModule' is not defined     react/jsx-no-undef
+  Line 659:70:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 661:66:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Identifier 'CampaignManagementModule' has already been declared. (707:16) (707:16)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/dougsimac/FIDGA/frontend/src/App.js: Identifier 'CampaignManagementModule' has already been declared. (707:16)
+
+  705 | // === Placeholder Modules for Build ===
+  706 | // Remove these when real modules are implemented
+> 707 | export function CampaignManagementModule() {
+      |                 ^
+  708 |   return <div style={{padding:32, textAlign:'center'}}>Campaign Management Module Coming Soon</div>;
+  709 | }
+  710 | export function PerformanceMonitoringModule() {
+    at constructor (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:363:19)
+    at FlowParserMixin.raise (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:6609:19)
+    at FlowScopeHandler.checkRedeclarationInScope (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1626:19)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1592:12)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1693:11)
+    at FlowParserMixin.registerFunctionStatementId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13381:16)
+    at FlowParserMixin.parseFunction (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13365:12)
+    at FlowParserMixin.parseFunctionStatement (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13044:17)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12709:21)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseStatementListItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12665:17)
+    at FlowParserMixin.parseExportDeclaration (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13849:17)
+    at FlowParserMixin.parseExportDeclaration (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3130:20)
+    at FlowParserMixin.maybeParseExportDeclaration (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13808:31)
+    at FlowParserMixin.parseExport (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13727:29)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12797:27)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseModuleItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12662:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13235:36)
+    at FlowParserMixin.parseBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13228:10)
+    at FlowParserMixin.parseProgram (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12541:10)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12531:25)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3697:28)
+    at FlowParserMixin.parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14410:10)
+    at parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14444:38)
+    at parser (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/App.js
+  Line 707:16:  Parsing error: Identifier 'CampaignManagementModule' has already been declared. (707:16)
+
+webpack compiled with 2 errors
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 586:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 587:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 588:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 726:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 726:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 800:70:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 802:66:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+ERROR in [eslint] 
+src/App.js
+  Line 800:70:  'PerformanceMonitoringModule' is not defined  react/jsx-no-undef
+  Line 802:66:  'ContentGenerationModule' is not defined      react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+Syntax error: Identifier 'CampaignManagementModule' has already been declared. (986:16) (986:16)
+ERROR in ./src/App.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/dougsimac/FIDGA/frontend/src/App.js: Identifier 'CampaignManagementModule' has already been declared. (986:16)
+
+  984 | // === Placeholder Modules for Build ===
+  985 | // Remove these when real modules are implemented
+> 986 | export function CampaignManagementModule() {
+      |                 ^
+  987 |   const [campaigns, setCampaigns] = useState([]);
+  988 |   const [loading, setLoading] = useState(true);
+  989 |   const [error, setError] = useState('');
+    at constructor (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:363:19)
+    at FlowParserMixin.raise (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:6609:19)
+    at FlowScopeHandler.checkRedeclarationInScope (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1626:19)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1592:12)
+    at FlowScopeHandler.declareName (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:1693:11)
+    at FlowParserMixin.registerFunctionStatementId (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13381:16)
+    at FlowParserMixin.parseFunction (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13365:12)
+    at FlowParserMixin.parseFunctionStatement (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13044:17)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12709:21)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseStatementListItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12665:17)
+    at FlowParserMixin.parseExportDeclaration (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13849:17)
+    at FlowParserMixin.parseExportDeclaration (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3130:20)
+    at FlowParserMixin.maybeParseExportDeclaration (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13808:31)
+    at FlowParserMixin.parseExport (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13727:29)
+    at FlowParserMixin.parseStatementContent (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12797:27)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12685:17)
+    at FlowParserMixin.parseStatementLike (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:2928:24)
+    at FlowParserMixin.parseModuleItem (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12662:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13235:36)
+    at FlowParserMixin.parseBlockBody (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:13228:10)
+    at FlowParserMixin.parseProgram (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12541:10)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:12531:25)
+    at FlowParserMixin.parseTopLevel (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:3697:28)
+    at FlowParserMixin.parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14410:10)
+    at parse (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/parser/lib/index.js:14444:38)
+    at parser (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/dougsimac/FIDGA/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/dougsimac/FIDGA/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/App.js
+  Line 986:16:  Parsing error: Identifier 'CampaignManagementModule' has already been declared. (986:16)
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:   'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 776:10:  'App' is defined but never used                                                                                                                                                                                                                                                                                                                                    no-unused-vars
+
+ERROR in ./src/index.js 12:33-36
+export 'default' (imported as 'App') was not found in './App' (possible exports: ContentGenerationModule, PerformanceMonitoringModule)
+
+ERROR in [eslint] 
+src/App.js
+  Line 798:67:  'CampaignManagementModule' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 798:67:  'CampaignManagementModule' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 237:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 727:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 728:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 729:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+ERROR in [eslint] 
+src/App.js
+  Line 798:67:  'CampaignManagementModule' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 27:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 243:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 733:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 27:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 243:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 733:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 27:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 243:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 733:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 27:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 243:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 733:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 27:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 243:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 733:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 27:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 243:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 733:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 28:3:   'updateCampaign' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+  Line 244:7:  'salesPeriods' is assigned a value but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+  Line 734:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 735:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+  Line 736:9:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+
+webpack compiled with 1 warning
